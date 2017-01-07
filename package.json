@@ -1,0 +1,11 @@
+{
+  "name": "jf_led_button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node arduino.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
